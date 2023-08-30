@@ -1,0 +1,2 @@
+- L'interface graphique a été générée via le gui intelliJ, pour fonctionner le projet doit inclure la bibliothèque forms_rt.jar présente dans le dossier lib
+- si néanmoins le projet ne fonctionnait toujours pas, une méthode main sans interface graphique est présente (mise en commentaire) dans la classe Client.java

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: fr.aperikub.projetNFA006.graphics.GraphicClient
+
